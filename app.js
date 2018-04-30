@@ -69,7 +69,7 @@ var ratings = [
 ];
 
 var commentCounts = [0, 0, 0, 0, 0, 0];
-var classTitles = ['Fun Deep Learning with Neural Networks', 'Advanced Calculus for Scholarship Athletes', 'Data Structures and Algorithms in Python', 'Processing Big Data with Spark and Hadoop', 'Essential Mathematics for Machine Learning', 'Social Media for Career Advancement'];
+var classTitles = ['Deep Learning with Neural Networks', 'Advanced Calculus for Scholarship Athletes', 'Data Structures and Algorithms in Python', 'Processing Big Data with Spark and Hadoop', 'Essential Mathematics for Machine Learning', 'Social Media for Career Advancement'];
 var classDescriptions = [
   'The future of software development lies in deep learning. Discover what deep learning is, how it works, and how to build neural networks using popular libraries such as CNTK and TensorFlow.',
   'Take a deep dive into integrals, partial differential equations, and other tenets of advanced calculus. A great way to kill time on the sidelines while waiting for your name to be called!',
